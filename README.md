@@ -4,19 +4,25 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fatima+ELOUAFI!;" />
 </h1>
 
-<h3 align="center">I'm a software engineering student</h3>
+<h3 align="center">I'm a software engineering student currently in my fourth year, with a passion for coding and technology. Welcome to my GitHub profile!</h3>
 
 <br/>
 
 <div align="center">
  
- 🎓 Studying **Software Engineering**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+## About Me
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+- 🎓 Studying Software Engineering.
+- 🌍 Based in Al Hoceima Morocco.
+- 🌱 Currently learning distributed systems & microservices.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+## My Interests
+
+- 🖥️ Software Development.
+- 🌐 Web Development.
+- 🌌 Distributed systems & microservices
+- 🖇️ DevOps
+
 
  </div>
  
