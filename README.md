@@ -50,7 +50,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,react,angular,nodejs,express,mysql,docker,aws" />
     <img src="https://skillicons.dev/icons?i=python,php,cpp,c,c#,dotnet,git,firebase,reactnative,linux,flask" /><br>
-    
+    <img src="https://skillicons.dev/icons?i=git,firebase,reactnative,linux,flask" /><br>
 </div>
 
 <br/>
