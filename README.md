@@ -12,21 +12,21 @@
  
 ## About Me
 
-- 🎓 Studying Software Engineering.
+🎓 Studying Software Engineering.
   
-- 🌍 Based in Al Hoceima Morocco.
+🌍 Based in Al Hoceima Morocco.
   
-- 🌱 Currently learning distributed systems & microservices.
+🌱 Currently learning distributed systems & microservices.
 
 ## My Interests
 
-- 🖥️ Software Development.
+🖥️ Software Development.
   
-- 🌐 Web Development.
+🌐 Web Development.
   
-- 🌌 Distributed systems & microservices
+🌌 Distributed systems & microservices
   
-- 🖇️ DevOps
+ 🖇️ DevOps
 
 </div>
  
