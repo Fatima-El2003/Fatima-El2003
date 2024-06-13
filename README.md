@@ -48,7 +48,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,springboot,javascript,react,angular,nodejs,express,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,springBoot,javascript,react,angular,nodejs,express,docker,aws" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
