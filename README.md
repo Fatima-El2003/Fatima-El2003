@@ -8,23 +8,27 @@
 
 <br/>
 
-<div align="center">
+
  
 ## About Me
 
 - 🎓 Studying Software Engineering.
+  
 - 🌍 Based in Al Hoceima Morocco.
+  
 - 🌱 Currently learning distributed systems & microservices.
 
 ## My Interests
 
 - 🖥️ Software Development.
+  
 - 🌐 Web Development.
+  
 - 🌌 Distributed systems & microservices
+  
 - 🖇️ DevOps
 
 
- </div>
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
