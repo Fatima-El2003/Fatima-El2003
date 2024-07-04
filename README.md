@@ -10,7 +10,7 @@
 
 <div align="center"> 
  
- 
+  <hr/>
 <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
 
 🎓 Studying Software Engineering.
@@ -18,7 +18,7 @@
 🌍 Based in Al Hoceima Morocco.
   
 🌱 Currently learning distributed systems & microservices.
-
+ <hr/>
 <h2 align="center">🎯 My Interests 🎯</h2>
 
 🖥️ Software Development.
