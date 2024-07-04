@@ -10,19 +10,21 @@
 
 <div align="center"> 
  
-  <br/>
+  
   <br/>
   <br/>
 <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
-
+<br/>
 🎓 Studying Software Engineering.
   
 🌍 Based in AlHoceima Morocco.
   
 🌱 Currently learning microservices & Cloud Computing.
- <hr/>
+ <br/>
+ <br/>
+ <br/>
 <h2 align="center">🎯 My Interests 🎯</h2>
-
+<br/>
 🖥️ Software Development.
   
 🌐 Web Development.
@@ -77,7 +79,7 @@
  <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
