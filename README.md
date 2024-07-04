@@ -58,8 +58,10 @@
     
 </div>
 
-<br/>
-<hr/>
+
+ <br/>
+ <br/>
+ <br/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -70,7 +72,9 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+ <br/>
+ <br/>
+ <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
