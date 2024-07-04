@@ -15,9 +15,9 @@
 
 🎓 Studying Software Engineering.
   
-🌍 Based in Al Hoceima Morocco.
+🌍 Based in AlHoceima Morocco.
   
-🌱 Currently learning distributed systems & microservices.
+🌱 Currently learning microservices & Cloud Computing.
  <hr/>
 <h2 align="center">🎯 My Interests 🎯</h2>
 
@@ -25,7 +25,7 @@
   
 🌐 Web Development.
   
-🌌 Distributed systems & microservices
+🌌 Cloud Computing & microservices
   
  🖇️ DevOps
 
