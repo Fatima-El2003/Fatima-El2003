@@ -10,7 +10,8 @@
 
 <div align="center"> 
  
-## About Me
+ 
+<h2 align="center">👩‍💻 About Me 👩‍💻</h2>
 
 🎓 Studying Software Engineering.
   
@@ -18,7 +19,7 @@
   
 🌱 Currently learning distributed systems & microservices.
 
-## My Interests
+<h2 align="center">🎯 My Interests 🎯</h2>
 
 🖥️ Software Development.
   
