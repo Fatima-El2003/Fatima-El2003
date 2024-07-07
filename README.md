@@ -56,7 +56,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,react,angular,nodejs,express,mysql,docker,aws" /><br/>
-    <img src="https://skillicons.dev/icons?i=python,php,cpp,c,cs,dotnet,git,firebase,linux,flask,postman" />
+    <img src="https://skillicons.dev/icons?i=python,php,cpp,redux,cs,dotnet,git,firebase,linux,flask,postman" />
     
 </div>
 
