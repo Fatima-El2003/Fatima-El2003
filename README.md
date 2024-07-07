@@ -81,7 +81,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Fatima-El2003.vercel.app/?user=Fatima-El2003&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Fatima-El2003&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <a href="http://www.github.com/Fatima-El2003"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima-El2003&stroke=ffffff&background=312e81&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <br/>
