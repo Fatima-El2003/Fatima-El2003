@@ -26,11 +26,8 @@
 <h2 align="center">🎯 My Interests 🎯</h2>
 <br/>
 🖥️ Software Development.
-  
 🌐 Web Development.
-  
 🌌 Cloud Computing & microservices
-  
  🖇️ DevOps
 
 </div>
