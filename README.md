@@ -22,7 +22,6 @@
 🌱 Currently learning microservices & Cloud Computing.
  <br/>
  <br/>
- <br/>
 <h2 align="center">🎯 My Interests 🎯</h2>
 <br/>
 🖥️ Software Development.
@@ -73,7 +72,6 @@
 </p>
   <br/><br/><br/>
 </div>
- <br/>
  <br/>
  <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
