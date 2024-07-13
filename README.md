@@ -46,24 +46,16 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
  <br/>
  <br/>
- <br/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,react,angular,nodejs,express,mysql,docker,aws" /><br/>
     <img src="https://skillicons.dev/icons?i=python,php,cpp,c,cs,dotnet,git,firebase,linux,flask,redux" />
-    
 </div>
-
-
  <br/>
  <br/>
- <br/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -72,7 +64,6 @@
 </p>
   <br/><br/><br/>
 </div>
- <br/>
  <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
