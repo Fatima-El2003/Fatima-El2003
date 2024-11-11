@@ -16,6 +16,7 @@
 <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
 <br/>
 🎓 Studying Software Engineering.
+
   
 🌍 Based in AlHoceima Morocco.
   
@@ -26,8 +27,11 @@
 <h2 align="center">🎯 My Interests 🎯</h2>
 <br/>
 🖥️ Software Development.
+
 🌐 Web Development.
+
 🌌 Cloud Computing & microservices.
+
  🖇️ DevOps.
 
 </div>
