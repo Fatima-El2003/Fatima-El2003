@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fatima+ELOUAFI!;" />
 </h1>
 
-<h3 align="center">I'm a software engineering student currently in my fourth year, with a passion for coding and technology. Welcome to my GitHub profile!</h3>
+<h3 align="center">I'm a software engineering student currently in my fifth year, with a passion for coding and technology. Welcome to my GitHub profile!</h3>
 
 <br/>
 
@@ -26,11 +26,8 @@
 <h2 align="center">🎯 My Interests 🎯</h2>
 <br/>
 🖥️ Software Development.
-
 🌐 Web Development.
-
 🌌 Cloud Computing & microservices.
-
  🖇️ DevOps.
 
 </div>
