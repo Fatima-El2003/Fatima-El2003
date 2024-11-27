@@ -20,7 +20,7 @@
   
 🌍 Based in AlHoceima Morocco.
   
-🌱 Currently learning microservices & Cloud Computing.
+🌱 Currently learning DevOps & Cloud Computing.
  <br/>
  <br/>
   <br/>
